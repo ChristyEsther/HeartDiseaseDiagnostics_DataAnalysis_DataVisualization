@@ -1,2 +1,5 @@
 # HeartDiseaseDiagnostics_DataAnalysis_DataVisualization
-A Data Analysis and Visualization created for Heart disease diagnostics dataset to find the primary factors contributing to the onset of heart disease.
+This is a wholesome work done for an internship on Data Analysis, focused on heart disease diagnostics (CVD), I leveraged the capabilities of Python's Pandas and NumPy libraries to conduct a rigorous examination of the dataset. By harnessing Pandas' versatile data manipulation tools and NumPy's numerical computations, I effectively prepared and processed the data for analysis. Employing statistical techniques and machine learning algorithms, I identified key factors contributing to heart disease risk and developed predictive models. To convey these insights, I turned to Tableau for data visualization, creating intuitive and informative visualizations that highlighted significant trends, risk factors, and model performance metrics. This combined approach enabled me to gain a deeper understanding of the complexities surrounding cardiovascular disease, facilitating informed decision-making and contributing to the advancement of diagnostics and prevention strategies.
+
+Tableau public link:
+https://public.tableau.com/views/ChristyEstherS_HeartDiseaseDiagnosis_DataAnalysis/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
